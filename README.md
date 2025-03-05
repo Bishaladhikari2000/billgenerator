@@ -2,6 +2,14 @@
 
 A Flutter-based mobile application for generating professional invoices and bills. This app streamlines the billing process by providing an intuitive interface for creating, managing, and sharing digital invoices.
 
+## App Showcase
+
+
+https://github.com/user-attachments/assets/dca0a581-a591-4bf1-9bf2-3cfdf8620c84
+
+
+
+
 ## Features
 
 - **Customer Information Management**: Easily input and manage customer details including name, address, and contact information
